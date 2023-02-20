@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/05.Inheritance_Lab/food/project" />
+            <path value="file://$PROJECT_DIR$/05.Inheritance_Lab/single_inheritance/project" />
+            <path value="file://$PROJECT_DIR$/19.Testing_Lab" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>

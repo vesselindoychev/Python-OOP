@@ -1,0 +1,2 @@
+We use Single Responsibility Principle (SRP) when there is one class with 2 or more different methods.
+We need to create different class for each of the methods.
